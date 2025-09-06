@@ -1,0 +1,3 @@
+C:/Users/Xinja/Desktop/workspace/Tic-tac-toe/cmake-build-debug/CMakeFiles/Tic-tac-toe.dir
+C:/Users/Xinja/Desktop/workspace/Tic-tac-toe/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Xinja/Desktop/workspace/Tic-tac-toe/cmake-build-debug/CMakeFiles/rebuild_cache.dir
